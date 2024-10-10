@@ -1,5 +1,6 @@
 ## howdy✌🏽
-
+- 🤔 I’m currently studying Computer Science at Texas A&M University
+- 📫 You can reach me at **aayushg1414@gmail.com**
 <!--
 **aayush-g1414/aayush-g1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
