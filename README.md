@@ -1,4 +1,4 @@
-## Hi there 👋
+## howdy✌🏽
 
 <!--
 **aayush-g1414/aayush-g1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
